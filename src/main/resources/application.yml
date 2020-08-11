@@ -13,9 +13,9 @@ spring:
     password: crunchegg7
     
   datasource: 
-    url: jdbc:mysql://node232274-env-1481114.j.layershift.co.uk/crunch?allowPublicKeyRetrieval=true&useSSL=false&useTimezone=true&serverTimezone=GMT&characterEncoding=UTF-8
-    username: root
-    password: ROHkvy93973
+    url: jdbc:mysql://200.80.241.187:3306/crunch?allowPublicKeyRetrieval=true&useSSL=false&useTimezone=true&serverTimezone=GMT&characterEncoding=UTF-8
+    username: duilio
+    password: zITbwUPJv7ICvKy9
     driver-class-name: com.mysql.cj.jdbc.Driver 
   jpa:
     show-sql: true
